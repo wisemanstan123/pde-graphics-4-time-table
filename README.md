@@ -12,8 +12,7 @@ You are going to print the names and classes of three teachers.  To do this, fol
 2. Using lines or rectangles, set up a grid for a 1 day time table. This will essentially be a 2x4 table (or something similar) be sure to make the boxes big enough to fit in your course names. Colours are optional
 3. Use ```text()``` statements that use the above variables to print out the information into the time table. One possible layout is the following:
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Block 1        | Dr. Pineda           | 
+| col 3 is      | right-aligned |
+| col 2 is      | centered      | 
+| zebra stripes | are neat      | 
