@@ -24,7 +24,7 @@ Bonus Challenge 1-3 will be done in the lower 1/4 of the window.
 Calculate the volume of air in this classroom in cubic feet. Each floor tile is exactly 1 foot square  (Yes, you have to count them.) and the ceiling is 12 feet high. To do this, follow  the steps below.
 
 1. Use int variables called w, l and h to store the width, length and height. You can use a volume variable if you want or just do the math right in the text statement. Recall from your math class, ```volume = length * width * height```.
-2. Print out your final statement such as: Room 215 contains approximately xxx cubic feet of air.
+2. Print out your final statement such as: Room 215 contains approximately xxx cubic feet of air (where xxx is an actual number).
 
 ### Bonus Challenge 2
 If you can calculate the volume of the room, it should be easy to calculate the square footage of the room. Imagine we are going to rip up the existing flooring and put in a fancier ceramic tile. The size of ceramic tile is 18 inches x 18 inches (18 inches = 1.5 feet).  Create a formula to calculate and then print the number of tiles that can fit in this room.  As long as your formula is approximately correct, I will give you credit.
