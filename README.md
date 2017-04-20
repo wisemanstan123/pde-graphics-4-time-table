@@ -1,4 +1,4 @@
-# CSE1110-assignment-4
+# CSE1110 Assignment 4: Time Table
 In this assignment you are working with basic variables in Processing
 
 You are to complete the following in one  file called ProcessingAssign3.  Be sure to run each part before moving on to the next.  As you go, add comments that give a title to each activity. You do NOT need to add any fonts or pictures to this document.  All colors are up to you.
@@ -32,5 +32,3 @@ If you can calculate the volume of the room, it should be easy to calculate the 
 ### Bonus Challenge 3
 For those of you who have mastered ‘basic variables’, you likely completed the above activities fairly quickly. To challenge yourself, see if you can work some IF STATEMENTS into the examples above. For example: IF (Semester==2), you have Math in block 1 - ELSE, you have Science
 
-## Turn in your assignment
-[Submitt your assignment for marking here](https://docs.google.com/a/epsb.ca/forms/d/e/1FAIpQLSdnnOUlwawWq9wmrKJZH40JlfNuSE8QaFGsJ_6OlzZle7m3MA/viewform)
