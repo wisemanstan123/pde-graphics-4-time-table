@@ -1,4 +1,7 @@
-# CSE1110 Assignment 4: Time Table
+# processing-graphics-assignment-4-time-table
+
+**[Assignment Standard Operating Procedures](https://mariopineda.github.io/assignment-sops/)**
+
 In this assignment you are working with basic variables in Processing
 
 You are to complete the following in one  file called ProcessingAssign3.  Be sure to run each part before moving on to the next.  As you go, add comments that give a title to each activity. You do NOT need to add any fonts or pictures to this document.  All colors are up to you.
