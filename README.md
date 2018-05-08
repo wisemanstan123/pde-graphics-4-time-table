@@ -2,30 +2,13 @@
 
 **[Assignment Standard Operating Procedures](https://mariopineda.github.io/assignment-sops/)**
 
-## Set up
-Make your display window 600 wide and 800 hight and plan on using the top  3/4 of the window for part 1 of the assignment.
+In this assignment you will be creating a daily time table of your classes similar to the format QE uses ([see example here](https://drive.google.com/file/d/0BxBFLDWev1vESHBoLXZha2YzbkE/view), note that the time table you are creating will only be for a single day).
 
-## Part 1: Creating a time table
-You are going to print the names and classes of three teachers.  To do this, follow  the steps below.
-
-1. Store the names of all of your current teachers in separate strings called ```name1```, ```name2``` and ```name3```, etc.  Store the names of one of their courses additional Strings called ```course1```, ```course2``` and ```course3```, etc..  
+Each rectangle has to include the class name and the teacher's name. Store the names of all of your current teachers in separate strings called `teacher1`, `teacher2` and `teacher3`, etc.  Store the names of one of their classes as additional Strings called ```course1```, ```course2``` and ```course3```, etc..  
 2. Using lines or rectangles, set up a grid for a 1 day time table. This will essentially be a 2x4 table (or something similar) be sure to make the boxes big enough to fit in your course names. Colours are optional.
 3. Use ```text()``` statements that use the above variables to print out the information into the time table. You may also add room numbers (optional). One possible layout is the following:
 
 ![timetable.png](timetable.png)
 
-## Part 2: Bonus Challenge 1-3
-Bonus Challenge 1-3 will be done in the lower 1/4 of the window.
-
-### Bonus Challenge 1
-Calculate the volume of air in this classroom in cubic feet. Each floor tile is exactly 1 foot square  (Yes, you have to count them.) and the ceiling is 12 feet high. To do this, follow  the steps below.
-
-1. Use int variables called w, l and h to store the width, length and height. You can use a volume variable if you want or just do the math right in the text statement. Recall from your math class, ```volume = length * width * height```.
-2. Print out your final statement such as: Room 215 contains approximately xxx cubic feet of air (where xxx is an actual number).
-
-### Bonus Challenge 2
-If you can calculate the volume of the room, it should be easy to calculate the square footage of the room. Imagine we are going to rip up the existing flooring and put in a fancier ceramic tile. The size of ceramic tile is 18 inches x 18 inches (18 inches = 1.5 feet).  Create a formula to calculate and then print the number of tiles that can fit in this room.  As long as your formula is approximately correct, I will give you credit.
-
-### Bonus Challenge 3
-For those of you who have mastered ‘basic variables’, you likely completed the above activities fairly quickly. To challenge yourself, see if you can work some IF STATEMENTS into the examples above. For example: IF (Semester==2), you have Math in block 1 - ELSE, you have Science
-
+## Bonus Challenge
+Gneerate the grid using a for loop.
