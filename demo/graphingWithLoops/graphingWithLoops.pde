@@ -1,8 +1,8 @@
 /**
- * <program/assignment name>
- * by <Your Name>
+ * graphingWithLoops
+ * by Mario Pineda
  * 
- * <Two sentence description of program>
+ * Demo of how to use loops for graphing multiple rectangles in two dimensions
  * 
  */
  
