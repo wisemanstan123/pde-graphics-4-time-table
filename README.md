@@ -11,4 +11,4 @@ In this assignment you will be creating a daily time table of your classes simil
 ![timetable.png](timetable.png)
 
 ## Bonus Challenge
-Create the 2x4 grid using a for loop.
+Create the 2x4 grid using for loops.
